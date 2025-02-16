@@ -1,0 +1,18 @@
+body {
+  transition: background 0.3s, color 0.3s;
+}
+
+.light-mode {
+  background: #fff;
+  color: #000;
+}
+
+.dark-mode {
+  background: #121212;
+  color: white;
+}
+
+button {
+  cursor: pointer;
+}
+
